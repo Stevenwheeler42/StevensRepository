@@ -1,1 +1,1 @@
-This repository is a template for documenting BlueStamp Engineering projects. Users should replace this text with a description of what their project is and what their repository holds. 
+my project is building a robotic arm. Here tou can find all the parts, code, and schematics for the porject.
